@@ -45,8 +45,8 @@
 
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://www.subpng.com/png-desnw7/download.html"> </code>
+  <code><img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+  <code> <img height="50" src="https://image.pngaaa.com/282/619282-middle.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
