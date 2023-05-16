@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=linksaiyajin&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Amsterdam-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20German-brightgreen" />
@@ -28,9 +28,9 @@
 
 <p align="center">
   <em>
-    Hello, I am Lennard Schuenemann, a <b>second year</b> AI undergraduate from <a href="https://uom.lk/"> <b>Vrije Universiteit</b>, Amsterdam =</a>. <br>
+    Hello, I am Lennard Schuenemann, a <b>third year</b> AI undergraduate from <a href="https://uom.lk/"> <b>Vrije Universiteit</b>, Amsterdam =</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find hidden patterns in data
+    with <b>Data Science</b> and always looking to find hidden patterns in data
   </em> 
   <br>
 </p>
@@ -38,7 +38,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently doing projects in Computer Vision<br>
+✔ I’m currently doing projects in Computer Vision and Reinforcement Learning<br>
 ✔ I’m currently learning about **deep learning**<br>
 ✔ Fun fact : I was speed chess champion in my hometown<br><br><br><br>
  
